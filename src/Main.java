@@ -83,7 +83,7 @@ public class Main {
             System.out.println("Разница в весе бойцов " +  differenceWeight + " кг");
 
             var diffWeight = (theFirstFighter + theSecondFighter) % theFirstFighter;
-            System.out.println("Разница в весе бойцов " + diffWeight + " кг");
+            System.out.println("Разница между бойцами " + diffWeight + " кг");
 
             var totalHours = 640;
             var hoursPerEmployee = 8;
